@@ -1,0 +1,12 @@
+## Interface: 16001, 16000
+## Title: Rogue's Buffs UI
+## Notes: Shows the rogue buffs you apply yourself (Slice and Dice, poisons on your weapons) as movable icons and warns you when they run out.
+## Notes-deDE: Zeigt die Schurken-Buffs, die du selbst aktivierst (Zerhäckseln, Gifte auf den Waffen), als verschiebbare Symbole und warnt dich, wenn sie auslaufen.
+## Author: r3v3nloper
+## Version: 1.0.0
+## SavedVariablesPerCharacter: RoguesBuffsUICharDB
+## IconTexture: Interface\Icons\Ability_Rogue_SliceDice
+
+Locales.lua
+Core.lua
+Options.lua
